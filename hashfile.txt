@@ -1,0 +1,6 @@
+1380440566:I am adding this to a hash map
+772781242:123456
+7891:yet another test
+4562:test
+3345:another test
+1163771161:this is a big test
